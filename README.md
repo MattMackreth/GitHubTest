@@ -3,9 +3,9 @@
 This is a file of how to do various things with git
 
 ## Quick guide for updating changes on Github
--> $ git add .
--> $ git commit - m 'What has changed'
--> $ git push \<destination\> \<branch\>
+- > $ git add .
+- > $ git commit - m 'What has changed'
+- > $ git push \<destination\> \<branch\>
 
 ## How To:
 
