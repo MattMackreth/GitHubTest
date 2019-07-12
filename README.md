@@ -1,4 +1,4 @@
-#How to Git/Github
+#H1 - How to Git/Github
 
 This is a file of how to do various things with git
 
